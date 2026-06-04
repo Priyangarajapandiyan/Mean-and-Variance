@@ -1,5 +1,6 @@
 # Ex:01  Mean and variance of a discrete  distribution
-
+# NAME : PRIYANGA R
+# REG NO : 212223230161
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
